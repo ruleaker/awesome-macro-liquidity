@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor
+.idea/
+.vscode/
+*.swp
+
+# Local notes / drafts
+drafts/
+notes/
+*.draft.md
+TODO.md
