@@ -4,6 +4,8 @@
 
 Liquidity moves everything before fundamentals catch up. This list collects the data sources, indicators, frameworks, thinkers, and tools that practitioners use to read it — across central banks, traditional markets, and on-chain.
 
+Companion list: [awesome-derivatives-data](https://github.com/ruleaker/awesome-derivatives-data) — derivatives-side data (funding, OI, basis, options) that the macro flows feed into.
+
 ## Contents
 
 - [Central Bank Data Sources](#central-bank-data-sources)
@@ -151,6 +153,7 @@ Liquidity moves everything before fundamentals catch up. This list collects the 
 
 ## Related Awesome Lists
 
+- [awesome-derivatives-data](https://github.com/ruleaker/awesome-derivatives-data) — Sister list; derivatives-side data (funding, OI, basis, options, microstructure).
 - [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) — Quantitative finance ecosystem.
 - [awesome-economics](https://github.com/iamericfletcher/awesome-economics) — Academic & applied economics.
 - [awesome-defi](https://github.com/0xsequence/awesome-defi) — DeFi protocols and primitives.
