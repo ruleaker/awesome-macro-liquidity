@@ -1,4 +1,4 @@
-# Awesome Macro Liquidity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Macro Liquidity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Lint](https://github.com/ruleaker/awesome-macro-liquidity/actions/workflows/lint.yml/badge.svg)](https://github.com/ruleaker/awesome-macro-liquidity/actions/workflows/lint.yml)
 
 > A curated list of resources for tracking global macro liquidity — the underlying force that drives risk-asset cycles.
 
