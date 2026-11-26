@@ -130,6 +130,7 @@ Companion list: [awesome-derivatives-data](https://github.com/ruleaker/awesome-d
 - [TradingView Economies](https://www.tradingview.com/markets/economies-and-markets/) - Free macro charts and screens.
 - [FRED Graph Builder](https://fredgraph.stlouisfed.org/) - Build custom multi-series charts, share by URL.
 - [World Government Bonds](https://www.worldgovernmentbonds.com/) - Live sovereign yields and curves.
+- [MacroDial Liquidity Module](https://macrodial.org/modules/liquidity) — Tracks Fed net liquidity (Fed assets − TGA − ON RRP), liquidity momentum, and reserve cross-checks with source-dated data.
 - [GuruFocus Economic Indicators](https://www.gurufocus.com/economic_indicators/) - Buffett indicator, Shiller PE, and more.
 - [NY Fed Markets Data](https://www.newyorkfed.org/markets) - RRP, SOMA, primary dealer positions.
 - [TIC Data (US Treasury)](https://home.treasury.gov/data/treasury-international-capital-tic-system) - Foreign holdings of US securities.
